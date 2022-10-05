@@ -1,0 +1,95 @@
+h1, p {
+    display: inline-block;   
+}
+.TEXTOS .p {
+    width: 600px;
+    margin: auto;
+    position: relative;
+    color: #fff;
+}
+.TEXTOS img{
+    width: 100%;
+}
+.NOVIDADES{
+    position: absolute;
+    top:40px;
+    left: 0;
+    text-align: center;
+    background-color: rgba(0,0,0,0.5);
+}
+.Bota{
+    position: absolute;
+    top:10px;
+    right: 0;
+    text-align: center;
+    background-color: rgba(0,0,0,0.5);
+}
+.UNIVERSE{    
+    position: absolute;
+    top:0px;
+    left: 0;
+    text-align: center;
+    background-color: rgba(0,0,0,0.5);
+
+}
+.NOVIDADES{
+    padding:0px;
+    height:3%;
+    width:10% ;
+    color:rgb(0, 0, 0) ;
+    background:rgb(0, 183, 255) ;
+    border:3px solid rgb(89, 9, 236) ;
+    border-radius: 5px;
+    user-select:none ;
+    cursor:pointer ;
+}
+.UNIVERSE{
+    padding:7px;
+    height:2%;
+    width: 9% ;
+    color:black ;
+    background:rgb(0, 204, 255) ;
+    border:3px solid rgb(89, 9, 236) ;
+    border-radius: 5px; ;
+    user-select:none ;
+    cursor:pointer ;
+}
+.MO img{
+    width: 100%;
+}
+.BU {
+    position: absolute;
+    top:0px;
+    left: 0;
+    text-align: center;
+    background-color: rgba(0,0,0,0.5);
+}
+.BN {
+    position: absolute;
+    top:0px;
+    left: 0;
+    text-align: center;
+    background-color: rgba(0,0,0,0.5);
+}
+.BO {
+    padding:7px;
+    height:2%;
+    width: 9% ;
+    color:black ;
+    background:rgb(0, 204, 255) ;
+    border:3px solid rgb(89, 9, 236) ;
+    border-radius: 5px; ;
+    user-select:none ;
+    cursor:pointer ;
+}
+.BN {
+        padding:0px;
+        height:3%;
+        width:10% ;
+        color:rgb(0, 0, 0) ;
+        background:rgb(0, 183, 255) ;
+        border:3px solid rgb(89, 9, 236) ;
+        border-radius: 5px;
+        user-select:none ;
+        cursor:pointer ;
+}
